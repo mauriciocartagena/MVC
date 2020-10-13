@@ -11,7 +11,7 @@
 
 
 <?php
-    require_once("controller/Productos_controlador.php");
+    require_once("controller/Personas_controlador.php");
 
 ?>
 
